@@ -34,6 +34,8 @@ Here are a few noteworthy projects I have worked on:
 
 - [Chat-Bee](https://github.com/iAbhishekPanwar/chat-bee): Chat-Bee is a real-time chat application built using React, Firebase Authentication, and Firebase Realtime Database. It allows users to communicate with each other in real-time with a better user interface designed with Sass.
 
+- [![An image of @iabhishekpanwar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iabhishekpanwar)](https://holopin.io/@iabhishekpanwar)
+
 You can find more of my projects on my GitHub repositories.
 
 
